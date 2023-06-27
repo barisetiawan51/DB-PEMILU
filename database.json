@@ -31,16 +31,16 @@
       "password": "admin"
     }
   ],
-  "candidates": [
+  "kandidat": [
     {
-      "id": 1,
-      "name": "Kandidat 1",
-      "votes": 0
+      "noUrut": 1,
+      "nama": "Kandidat 1",
+      "vote": 0
     },
     {
-      "id": 2,
-      "name": "Kandidat 2",
-      "votes": 0
+      "noUrut": 2,
+      "nama": "Kandidat 2",
+      "vote": 0
     }
   ]
 }
